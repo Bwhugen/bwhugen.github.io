@@ -1,16 +1,7 @@
-This is a public repository for general guidance and thoughts on managing and updating z/VM security
-and cryptography. In fairness, this could have (and probably should have) been a blog,
-but I liked the idea of having a project where like-minded souls could contribute
-directly to the content by creating branches and submitting error corrections or clarifications.
+You know and love [https://www.vm.ibm.com/](IBM z/VM)? Of course you do. 
 
-If you have proposals for future topics, please update the pertinent file.
+Do you know how to lock it down? I can help.
 
-Thanks!
-
-Best regards,
-
-Brian Hugenbruch, CISSP
-* bwhugen@us.ibm.com
-* Twitter @Bwhugen 
-* LinkedIn @Bwhugen 
-* Mastodon @apictureofaman@infosec.exchange
+This isn't the only z/VM security reference on the web -- I'm also in charge of the [https://www.vm.ibm.com](official z/VM security webpage), for example. 
+But I'm carving out this space so I can fast-path hands-on content and how-to's directly to the folks who need it.
+If you have any requests for topics, feel free to drop me a line.
