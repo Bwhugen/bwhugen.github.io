@@ -1,4 +1,4 @@
-theme: minima
-title: z/VM Security How To's
+theme: alemibc
+title: IBM z/VM Security Guidance and How To's
 author: Brian Hugenbruch, CISSP
-description: This is a series of topical articles that enumerate handling complicated security-relevant tasks on the IBM z/VM platform.
+description: Brian Hugenbruch is a Senior Software Engineer at IBM; he has spent 20+ years working in the field of z/VM security, cryptography, and cyber-resiliency. But he's also a word-nerd, so now he's building a blog. I'm so sorry.
