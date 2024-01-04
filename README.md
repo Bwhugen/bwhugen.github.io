@@ -10,6 +10,9 @@ If you have proposals for future topics, please update the pertinent file.
 Thanks!
 
 Best regards,
+
 Brian Hugenbruch, CISSP
-bwhugen@us.ibm.com
-Twitter @Bwhugen / LinkedIn @Bwhugen / Mastodon @apictureofaman@infosec.exchange
+* bwhugen@us.ibm.com
+* Twitter @Bwhugen 
+* LinkedIn @Bwhugen 
+* Mastodon @apictureofaman@infosec.exchange
