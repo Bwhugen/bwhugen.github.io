@@ -1,7 +1,3 @@
----
-title: z/VM Security Guidance and How To's
----
-
 This is a public repository for general guidance and thoughts on managing and updating z/VM security
 and cryptography. In fairness, this could have (and probably should have) been a blog,
 but I liked the idea of having a project where like-minded souls could contribute
