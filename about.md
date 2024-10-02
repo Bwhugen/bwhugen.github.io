@@ -8,7 +8,7 @@ You can find more content related to z/VM security at its main webpage, at [http
 presentations.
 
 To contact Brian, reach out to him via
-* **E-mail**: [bwhugen@us.ibm.com](mailto:bwhugen@us.ibm.com)
+* **E-mail**: IYKYK
 * **LinkedIn**: [https://www.linkedin.com/in/bwhugen/](https://www.linkedin.com/in/bwhugen/)
 * **Mastodon**: [https://infosec.exchange/@apictureofaman](https://infosec.exchange/@apictureofaman)
 * **Twitter**: [@Bwhugen](https://twitter.com/Bwhugen)
